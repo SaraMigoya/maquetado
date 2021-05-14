@@ -63,6 +63,7 @@
     .header__menu--item {
         list-style: none;
         color: $tertiary-color;
+        font-size: 1.25em;
     }
     .header__container {
         display: flex;
@@ -71,7 +72,7 @@
     .header__logo {
         margin-left: 580px;
         width: 206px;
-height: 30px;
+        height: 30px;
     } 
 
     .header__user, .header__search {
